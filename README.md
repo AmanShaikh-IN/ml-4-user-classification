@@ -12,7 +12,7 @@ In a machine learning classification problem, the algorithm assigns labels to in
 The objective is to predict whether students will upgrade from a free plan to a paid plan, using the provided dataset and the models above.
 
 ### Business Objective
-The ability to predict potential paying customers is critical not only for 365 but for any online platform. Such predictions can:
+The ability to predict potential paying customers is critical not only for 365 Data Science but for any online platform. Such predictions can:
 - Enhance targeted advertising campaigns.
 - Support outreach initiatives with exclusive offers.
 - Optimize marketing budgets by focusing on users most likely to convert to paid customers.
